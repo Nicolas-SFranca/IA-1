@@ -8,8 +8,8 @@ import webbrowser
 from huggingface_hub import login
 
 # === CONFIGURAÇÕES ===
-API_KEY_GEMINI = "AIzaSyAn3Z485B1p7iBESKyG_kXv3qcoQwoG7EI"
-HF_TOKEN = "hf_abcd1234EfGhIjKlMnOpQrStUvWxYz9876"  # substitua por seu token válido
+API_KEY_GEMINI ="_kXv3qG7EI"
+HF_TOKEN = "hf_abfGhnOpQW76"  # substitua por seu token válido
 CAMINHO_MODELO = "modelo_mobilenet_balanceado.h5"
 CAMINHO_SPECTROS = r"C:\Users\Administrador\Documents\meu_projeto_ecoauralia\spectrogramas"
 CAMINHO_IMAGEM = r"C:\Users\Administrador\Documents\meu_projeto_ecoauralia\spectrogramas\ovelhas\ovelhas_010.png"
