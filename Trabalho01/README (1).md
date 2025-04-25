@@ -83,7 +83,5 @@ python menu_principal.py
 - O modelo foi treinado com data augmentation e class weights
 - A performance pode variar conforme a qualidade dos áudios e o balanceamento entre as classes
 - A geração de imagens com Diffusers foi descontinuada para manter o projeto leve e funcional localmente
+- Bastante dificuldade para conseguir audios de animais pela internet.
 
-## 📚 Créditos
-
-Desenvolvido como parte de um projeto acadêmico com foco em **Inteligência Artificial Aplicada ao Reconhecimento Bioacústico**, utilizando ferramentas modernas de aprendizado de máquina e IA generativa.
