@@ -20,7 +20,7 @@ O sistema é capaz de:
 | `Matplotlib`       | Geração de espectrogramas em imagem |
 | `Google Generative AI` | Geração de texto descritivo sobre os animais (Gemini) |
 | `webbrowser`       | Abertura de pesquisas de imagem no navegador |
-| `Hugging Face`     | (Opcional) Geração de imagens via Diffusion Pipeline - **não está mais ativo no projeto** |
+| `Hugging Face`     | (Opcional) Geração de imagens via Diffusion Pipeline - **Foi retirado do menu do projeto** |
 
 ## 🔧 Estrutura de Pastas
 
